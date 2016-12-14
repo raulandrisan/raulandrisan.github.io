@@ -1,379 +1,373 @@
 {
-  "default": [
-    {
-      "stationId": "530",
-      "stationName": "SWR3",
-      "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-530.png"
-    },
-    {
-      "stationId": "13771",
-      "stationName": "Antenne Bayern",
-      "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-13771.png"
-    },
-    {
-      "stationId": "531",
-      "stationName": "1LIVE",
-      "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-531.png"
-    },
-    {
-      "stationId": "2918",
-      "stationName": "NDR 2",
-      "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-2918.png"
-    },
-    {
-      "stationId": "3158",
-      "stationName": "BBC Radio 4",
-      "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-3158.png"
-    },
-    {
-      "stationId": "795",
-      "stationName": "Bayern 3",
-      "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-795.png"
-    },
-    {
-      "stationId": "8047",
-      "stationName": "ROCK ANTENNE",
-      "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-8047.png"
+    "default": [
+                {
+                "stationId": "1357",
+                "stationName": "BBC Radio 1",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1357.png"
+                },
+                {
+                "stationId": "40396",
+                "stationName": "Monocle 24 Radio",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-40396.png"
+                },
+                {
+                "stationId": "76648",
+                "stationName": "Rinse FM",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-76648.png"
+                },
+                {
+                "stationId": "49130",
+                "stationName": "ABC Jazz Australia",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-49130.png"
+                },
+                {
+                "stationId": "3537",
+                "stationName": "BBC Radio 3",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-3537.png"
+                },
+                {
+                "stationId": "661",
+                "stationName": "Gold Radio UK",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-661.png"
+                },
+                {
+                "stationId": "22718",
+                "stationName": "Kiss FM Australia",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-22718.png"
+                }
+                ],
+    "countries": {
+        "RO": [
+               {
+               "stationId": "12494",
+               "stationName": "Europa FM",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-12494.png"
+               },
+               {
+               "stationId": "1035",
+               "stationName": "Kiss FM",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1035.png"
+               },
+               {
+               "stationId": "20665",
+               "stationName": "Europa FM 106.7",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-20665.png"
+               },
+               {
+               "stationId": "29469",
+               "stationName": "Radio ZU",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-29469.png"
+               },
+               {
+               "stationId": "10356",
+               "stationName": "Pro FM",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-10356.png"
+               },
+               {
+               "stationId": "26815",
+               "stationName": "Dance FM",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-26815.png"
+               },
+               {
+               "stationId": "6400",
+               "stationName": "Romania Actualitati",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-6400.png"
+               }
+               ],
+        "GB": [
+               {
+               "stationId": "78818",
+               "stationName": "Radar Radio",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-78818.png"
+               },
+               {
+               "stationId": "76705",
+               "stationName": "9 Radio",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-76705.png"
+               },
+               {
+               "stationId": "661",
+               "stationName": "Gold Radio UK",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-661.png"
+               }{
+               "stationId": "3537",
+               "stationName": "BBC Radio 3",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-3537.png"
+               },
+               {
+               "stationId": "1357",
+               "stationName": "BBC Radio 1",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1357.png"
+               },
+               {
+               "stationId": "40396",
+               "stationName": "Monocle 24 Radio",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-40396.png"
+               },
+               {
+               "stationId": "49130",
+               "stationName": "ABC Jazz Australia",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-49130.png"
+               }
+               ],
+        "FR": [
+               {
+               "stationId": "7728",
+               "stationName": "Jazz Radio Lyon",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-7728.png"
+               },
+               {
+               "stationId": "75673",
+               "stationName": "Rinse FM .fr",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-75673.png"
+               },
+               {
+               "stationId": "29041",
+               "stationName": "Generations Rnb Soul",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-29041.png"
+               },
+               {
+               "stationId": "20985",
+               "stationName": "Radio Campus Paris",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-20985.png"
+               },
+               {
+               "stationId": "40396",
+               "stationName": "Monocle 24 Radio",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-40396.png"
+               },
+               {
+               "stationId": "1357",
+               "stationName": "BBC Radio 1",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1357.png"
+               },
+               {
+               "stationId": "49130",
+               "stationName": "ABC Jazz Australia",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-49130.png"
+               }
+               ],
+        "DE": [
+               {
+               "stationId": "80592",
+               "stationName": "Berlin Community Radio",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-80592.png"
+               },
+               {
+               "stationId": "4614",
+               "stationName": "Radio Hamburg",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-4614.png"
+               },
+               {
+               "stationId": "38686",
+               "stationName": "FLUX FM",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-38686.png"
+               },
+               {
+               "stationId": "78925",
+               "stationName": "Klassik Radio - Legenden der Klassik",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-78925.png"
+               },
+               {
+               "stationId": "40396",
+               "stationName": "MONOCLE 24 RADIO",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-40396.png"
+               },
+               {
+               "stationId": "1357",
+               "stationName": "BBC RADIO 1",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1357.png"
+               },
+               {
+               "stationId": "76648",
+               "stationName": "RINSE FM",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-76648.png"
+               }
+               ],
+        "SE": [
+               {
+               "stationId": "5526",
+               "stationName": "Sveriges Radio - P3",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-5526.png"
+               },
+               {
+               "stationId": "24394",
+               "stationName": "Sveriges Radio - P3 Din Gata 100.6",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-24394.png"
+               },
+               {
+               "stationId": "6412",
+               "stationName": "Sveriges Radio - P1",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-6412.png"
+               },
+               {
+               "stationId": "77125",
+               "stationName": "Indie 101",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-77125.png"
+               },
+               {
+               "stationId": "40396",
+               "stationName": "MONOCLE 24 RADIO",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-40396.png"
+               },
+               {
+               "stationId": "1357",
+               "stationName": "BBC RADIO 1",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1357.png"
+               },
+               {
+               "stationId": "76648",
+               "stationName": "RINSE FM",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-76648.png"
+               }
+               ],
+        "NO": [
+               {
+               "stationId": "5526",
+               "stationName": "Sveriges Radio - P3",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-5526.png"
+               },
+               {
+               "stationId": "24394",
+               "stationName": "Sveriges Radio - P3 Din Gata 100.6",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-24394.png"
+               },
+               {
+               "stationId": "6412",
+               "stationName": "Sveriges Radio - P1",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-6412.png"
+               },
+               {
+               "stationId": "77125",
+               "stationName": "Indie 101",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-77125.png"
+               },
+               {
+               "stationId": "40396",
+               "stationName": "MONOCLE 24 RADIO",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-40396.png"
+               },
+               {
+               "stationId": "1357",
+               "stationName": "BBC RADIO 1",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1357.png"
+               },
+               {
+               "stationId": "76648",
+               "stationName": "RINSE FM",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-76648.png"
+               }
+               ],
+        "FI": [
+               {
+               "stationId": "5526",
+               "stationName": "Sveriges Radio - P3",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-5526.png"
+               },
+               {
+               "stationId": "24394",
+               "stationName": "Sveriges Radio - P3 Din Gata 100.6",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-24394.png"
+               },
+               {
+               "stationId": "6412",
+               "stationName": "Sveriges Radio - P1",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-6412.png"
+               },
+               {
+               "stationId": "77125",
+               "stationName": "Indie 101",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-77125.png"
+               },
+               {
+               "stationId": "40396",
+               "stationName": "MONOCLE 24 RADIO",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-40396.png"
+               },
+               {
+               "stationId": "1357",
+               "stationName": "BBC RADIO 1",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1357.png"
+               },
+               {
+               "stationId": "76648",
+               "stationName": "RINSE FM",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-76648.png"
+               }
+               ],
+        "DK": [
+               {
+               "stationId": "5526",
+               "stationName": "Sveriges Radio - P3",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-5526.png"
+               },
+               {
+               "stationId": "24394",
+               "stationName": "Sveriges Radio - P3 Din Gata 100.6",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-24394.png"
+               },
+               {
+               "stationId": "6412",
+               "stationName": "Sveriges Radio - P1",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-6412.png"
+               },
+               {
+               "stationId": "77125",
+               "stationName": "Indie 101",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-77125.png"
+               },
+               {
+               "stationId": "40396",
+               "stationName": "MONOCLE 24 RADIO",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-40396.png"
+               },
+               {
+               "stationId": "1357",
+               "stationName": "BBC RADIO 1",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1357.png"
+               },
+               {
+               "stationId": "76648",
+               "stationName": "RINSE FM",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-76648.png"
+               }
+               ],
+        "US": [
+               {
+               "stationId": "42016",
+               "stationName": "KCRW News",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-42016.png"
+               },
+               {
+               "stationId": "808",
+               "stationName": "KCRW",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-808.png"
+               },
+               {
+               "stationId": "3749",
+               "stationName": "KEXP",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-3749.png"
+               },
+               {
+               "stationId": "30185",
+               "stationName": "Hot 97.1 FM",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-30185.png"
+               },
+               {
+               "stationId": "1963",
+               "stationName": "WWOZ 90.7",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1963.png"
+               },
+               {
+               "stationId": "40396",
+               "stationName": "MONOCLE 24 RADIO",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-40396.png"
+               },
+               {
+               "stationId": "1357",
+               "stationName": "BBC RADIO 1",
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1357.png"
+               }
+               ]
     }
-  ],
-  "countries": {
-    "RO": [
-      {
-        "stationId": "18495",
-        "stationName": "Bucuresti FM 98.3",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-18495.png"
-      },
-      {
-        "stationId": "26815",
-        "stationName": "DanceFM 89.5",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-26815.png"
-      },
-      {
-        "stationId": "12494",
-        "stationName": "Europa FM 106.7",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-12494.png"
-      },
-      {
-        "stationId": "19850",
-        "stationName": "Pro DJ Radio",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-19850.png"
-      },
-      {
-        "stationId": "29390",
-        "stationName": "ProFM 80s",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-29390.png"
-      },
-      {
-        "stationId": "10356",
-        "stationName": "ProFM 97.9",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-10356.png"
-      },
-      {
-        "stationId": "36852",
-        "stationName": "ProFM Chillout",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-36852.png"
-      }
-    ],
-    "GB": [
-      {
-        "stationId": "28155",
-        "stationName": "1 Mix Radio EDM",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-28155.png"
-      },
-      {
-        "stationId": "28154",
-        "stationName": "1 Mix Radio Trance",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-28154.png"
-      },
-      {
-        "stationId": "36802",
-        "stationName": "100 Hit Radio",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-36802.png"
-      },
-      {
-        "stationId": "32746",
-        "stationName": "Absolute Radio 80s",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-32746.png"
-      },
-      {
-        "stationId": "9560",
-        "stationName": "Absolute Radio Classic Rock",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-9560.png"
-      },
-      {
-        "stationId": "66273",
-        "stationName": "BBC Swahili",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-66273.png"
-      },
-      {
-        "stationId": "66274",
-        "stationName": "BBC Tamil",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-66274.png"
-      }
-    ],
-    "DE": [
-      {
-        "stationId": "9597",
-        "stationName": "100,5 DAS HITRADIO",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-9597.png"
-      },
-      {
-        "stationId": "3373",
-        "stationName": "104.6 RTL",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-3373.png"
-      },
-      {
-        "stationId": "14130",
-        "stationName": "89.0 RTL",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-14130.png"
-      },
-      {
-        "stationId": "6407",
-        "stationName": "98.8 KISS FM",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-6407.png"
-      },
-      {
-        "stationId": "4188",
-        "stationName": "Antenne 1 Hit Radio",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-4188.png"
-      },
-      {
-        "stationId": "13771",
-        "stationName": "Antenne Bayern",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-13771.png"
-      },
-      {
-        "stationId": "6650",
-        "stationName": "delta radio LIVE",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-6650.png"
-      }
-    ],
-    "NO": [
-      {
-        "stationId": "11777",
-        "stationName": "1FM 104.8",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-11777.png"
-      },
-      {
-        "stationId": "21588",
-        "stationName": "Dansbandsradioen",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-21588.png"
-      },
-      {
-        "stationId": "10183",
-        "stationName": "Metal Express Radio",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-10183.png"
-      },
-      {
-        "stationId": "10510",
-        "stationName": "NRK Klassisk",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-10510.png"
-      },
-      {
-        "stationId": "10507",
-        "stationName": "NRK mP3",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-10507.png"
-      },
-      {
-        "stationId": "21596",
-        "stationName": "NRK P1 - Hordaland",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-21596.png"
-      },
-      {
-        "stationId": "21599",
-        "stationName": "NRK P1 - Sogn og Fjordane",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-21599.png"
-      }
-    ],
-    "SE": [
-      {
-        "stationId": "20990",
-        "stationName": "Bandit Rock Stockholm 106.3 FM",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-20990.png"
-      },
-      {
-        "stationId": "26696",
-        "stationName": "Dagnys Jukebox",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-26696.png"
-      },
-      {
-        "stationId": "28571",
-        "stationName": "Dansbandskanalen",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-28571.png"
-      },
-      {
-        "stationId": "22623",
-        "stationName": "Guldkanalen 102.6 FM",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-22623.png"
-      },
-      {
-        "stationId": "10168",
-        "stationName": "Lugna Favoriter",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-10168.png"
-      },
-      {
-        "stationId": "13831",
-        "stationName": "Mix Megapol Göteborg",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-13831.png"
-      },
-      {
-        "stationId": "5518",
-        "stationName": "Mix Megapol Malmö",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-5518.png"
-      },
-      {
-        "stationId": "5619",
-        "stationName": "Mix Megapol Stockholm",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-5619.png"
-      }
-    ],
-    "FI": [
-      {
-        "stationId": "17579",
-        "stationName": "Basso Radio",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-17579.png"
-      },
-      {
-        "stationId": "23093",
-        "stationName": "Groove FM 91.1",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-23093.png"
-      },
-      {
-        "stationId": "24601",
-        "stationName": "Iskelmä Tampere",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-24601.png"
-      },
-      {
-        "stationId": "32791",
-        "stationName": "Metro FM 95.2",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-32791.png"
-      },
-      {
-        "stationId": "43915",
-        "stationName": "NRJ Finland - Suomihitit",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-43915.png"
-      },
-      {
-        "stationId": "5204",
-        "stationName": "NRJ Finland 96.8 FM",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-5204.png"
-      },
-      {
-        "stationId": "24725",
-        "stationName": "Radio 95.7 FM",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-24725.png"
-      }
-    ],
-    "FR": [
-      {
-        "stationId": "19467",
-        "stationName": "4U Classic Rock",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-19467.png"
-      },
-      {
-        "stationId": "36190",
-        "stationName": "4U Smooth Jazz",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-36190.png"
-      },
-      {
-        "stationId": "34646",
-        "stationName": "ABC Lounge Webradio",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-34646.png"
-      },
-      {
-        "stationId": "2842",
-        "stationName": "CHERIE FM 91.3",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-2842.png"
-      },
-      {
-        "stationId": "27263",
-        "stationName": "Cinemix",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-27263.png"
-      },
-      {
-        "stationId": "29137",
-        "stationName": "Classic And Jazz",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-29137.png"
-      },
-      {
-        "stationId": "5177",
-        "stationName": "FIP",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-5177.png"
-      }
-    ],
-    "DK": [
-      {
-        "stationId": "8373",
-        "stationName": "ANR",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-8373.png"
-      },
-      {
-        "stationId": "20664",
-        "stationName": "ANR Hits",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-20664.png"
-      },
-      {
-        "stationId": "22217",
-        "stationName": "DR P4 Copenhagen",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-22217.png"
-      },
-      {
-        "stationId": "13427",
-        "stationName": "DR P4 København",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-13427.png"
-      },
-      {
-        "stationId": "13432",
-        "stationName": "DR P4 Østjylland Radio",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-13432.png"
-      },
-      {
-        "stationId": "37604",
-        "stationName": "DR P6 Beat",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-37604.png"
-      },
-      {
-        "stationId": "38267",
-        "stationName": "DR P7 Mix",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-38267.png"
-      }
-    ],
-    "ES": [
-      {
-        "stationId": "8370",
-        "stationName": "40 Principales - España",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-8370.png"
-      },
-      {
-        "stationId": "43375",
-        "stationName": "Blue Marlin Ibiza",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-43375.png"
-      },
-      {
-        "stationId": "17046",
-        "stationName": "Cadena Dial 91.7 FM",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-17046.png"
-      },
-      {
-        "stationId": "1111",
-        "stationName": "Catalunya Informacio",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1111.png"
-      },
-      {
-        "stationId": "28168",
-        "stationName": "Flamenco Radio",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-28168.png"
-      },
-      {
-        "stationId": "14692",
-        "stationName": "Ibiza Global Radio 97.6 FM",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-14692.png"
-      },
-      {
-        "stationId": "25526",
-        "stationName": "Ibiza Sonica 95.2 FM",
-        "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-25526.png"
-      }
-    ]
-  }
 }
