@@ -29,35 +29,6 @@
                 "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-22718.png"
                 }],
     "countries": {
-        "RO": [{
-               "stationId": "12494",
-               "stationName": "Europa FM",
-               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-12494.png"
-               }, {
-               "stationId": "1035",
-               "stationName": "Kiss FM",
-               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1035.png"
-               }, {
-               "stationId": "20665",
-               "stationName": "Magic FM Romania",
-               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-20665.png"
-               }, {
-               "stationId": "29469",
-               "stationName": "Radio ZU",
-               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-29469.png"
-               }, {
-               "stationId": "10356",
-               "stationName": "Pro FM",
-               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-10356.png"
-               }, {
-               "stationId": "26815",
-               "stationName": "Dance FM",
-               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-26815.png"
-               }, {
-               "stationId": "6400",
-               "stationName": "Romania Actualitati",
-               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-6400.png"
-               }],
         "GB": [{
                "stationId": "78818",
                "stationName": "Radar Radio",
