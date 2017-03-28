@@ -12,9 +12,9 @@
                 "stationName": "Rinse FM",
                 "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-76648.png"
                 }, {
-                "stationId": "49130",
+                "stationId": "15842",
                 "stationName": "ABC Jazz",
-                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-49130.png"
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-15842.png"
                 }, {
                 "stationId": "3537",
                 "stationName": "BBC Radio 3",
@@ -54,9 +54,9 @@
                "stationName": "Monocle 24",
                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-40396.png"
                }, {
-               "stationId": "49130",
+               "stationId": "15842",
                "stationName": "ABC Jazz",
-               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-49130.png"
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-15842.png"
                }],
         "FR": [{
                "stationId": "7728",
@@ -83,9 +83,9 @@
                "stationName": "BBC Radio 1",
                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-1357.png"
                }, {
-               "stationId": "49130",
+               "stationId": "15842",
                "stationName": "ABC Jazz",
-               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-49130.png"
+               "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-15842.png"
                }],
         "DE": [{
                "stationId": "80592",
