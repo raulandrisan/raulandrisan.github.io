@@ -1,7 +1,31 @@
-KEXP 90.3 FM Seattle
-Kerrang! Radio
-Planet Rock
-KCRW 89.9 Santa Monica
-BBC Radio 6 Music
-Monocle 24
-BBC Radio 2
+{
+    "default": [{
+                "stationId": "3749",
+                "stationName": "KEXP 90.3 FM Seattle",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-3749.png"
+                }, {
+                "stationId": "4928",
+                "stationName": "Kerrang! Radio",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-4928.png"
+                }, {
+                "stationId": "9071",
+                "stationName": "Planet Rock",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-9071.png"
+                }, {
+                "stationId": "808",
+                "stationName": "KCRW 89.9 Santa Monica",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-808.png"
+                }, {
+                "stationId": "26128",
+                "stationName": "BBC Radio 6 Music",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-26128.png"
+                }, {
+                "stationId": "40396",
+                "stationName": "Monocle 24",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-40396.png"
+                }, {
+                "stationId": "3159",
+                "stationName": "BBC Radio 2",
+                "artworkUrl": "http://pri.wifiradiofrontier.com/setupapp/setup1/logo/logo-3159.png"
+                }]
+}
